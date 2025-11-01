@@ -1,18 +1,25 @@
-# Hi, I'm Silvestre 👋
+# I write code that sometimes even works.
 
-I am a passionate Software Developer who enjoys spending countless hours coding
+I spend my free time debugging problems I created six hours earlier. When I’m not coding, I’m thinking about coding — which is just a more stressful version of coding.
 
-* 💡 I have an entrepreneurial spirit and love learning new technologies
-* 💻 I'm currently working with React, PHP, and various web technologies
-* 🎮 Fun fact: I like to play chess even though I'm not so good
-* ⭐ Learn more about me [here](https://github.com/SilesterGold9/) (soon!)
+* 🎮 Fun fact: I play chess to remind myself that algorithms aren’t the only things that destroy me mentally. Oh, and I can reverse a linked list.
+<!-- * ⭐ Learn more about me [here](https://github.com/SilesterGold9/) (soon!) -->  
+
+## 🛠️ Tools I (try to) use  
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Git (barely)](https://img.shields.io/badge/Git-(barely)-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-(surviving)-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Coffee](https://img.shields.io/badge/Coffee-(essential)-6F4E37?style=for-the-badge&logo=coffeescript&logoColor=white)
 
 ## 🌐 Connect with me
 
 <div align="left">
-<!--   <a href="your-youtube-link" style="text-decoration: none;" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
-  </a> -->
   <a href="https://www.instagram.com/silvestre_dourado16/" style="text-decoration: none;" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
@@ -23,41 +30,10 @@ I am a passionate Software Developer who enjoys spending countless hours coding
 
 ## 📊 GitHub Stats
 
+### Here lies proof that I occasionally commit things.
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SilesterGold9&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=SilesterGold9&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<details>
-    <summary>🏆 GitHub Profile Trophy</summary>
-    <br>
-    
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SilesterGold9&theme=nord&column=7&margin-w=10&margin-h=10" />
-  </a>
-</p>
-</details>
-
----
-
-<details>
-  <summary>✨ More About Me</summary>
-  <br>
-  
-  - 🔭 I'm currently working on improving my skills in web development
-  - 🌱 Always learning new technologies and best practices
-  - 👯 I'm looking to collaborate on open source projects
-  - 💬 Ask me about JavaScript, React, or web development in general
-  - ⚡ Fun fact: Besides chess, I also enjoy hiking
-  
-</details>
-
-<div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=SilesterGold9&color=blue&style=flat-square&label=Profile+Views" />
 </div>
 
 <!--
