@@ -14,13 +14,12 @@ I spend my free time debugging problems I created six hours earlier. When I’m 
 [![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)]()
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)]()
+[![HTTPie](https://img.shields.io/badge/HTTPie-FF6C37?style=for-the-badge&logo=postman&logoColor=white)]()
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=FCC624)]()
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)]()
 [![Coffee](https://img.shields.io/badge/Coffee-E3B261?style=for-the-badge&logo=buymeacoffee&logoColor=white)]()
 
-> 🧠 *"If it works on my machine, that’s a feature."*
 
 ## 🌐 Connect with me
 
